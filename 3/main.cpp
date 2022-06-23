@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello!" << endl;
+    cout << "Pusty plik" << endl;
     return 0;
 }
